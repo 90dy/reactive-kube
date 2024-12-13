@@ -49,7 +49,7 @@ reactive-kube is [MIT licensed](LICENSE).
 
 ### Phase 1: Library Development
 
-- [ ] Implement core `useResource` hook
+- [x] Implement core `useResource` hook
 - [ ] Create base components (Cluster, Namespace, Pod, Service, etc.)
 - [ ] Develop default view components
 - [ ] Write unit tests for all components
